@@ -1,0 +1,11 @@
+c:\users\okane\Source\Repos\KestrelPlatform\KestrelPlatform\bin\Debug\netcoreapp2.0\KestrelPlatform.deps.json
+c:\users\okane\Source\Repos\KestrelPlatform\KestrelPlatform\bin\Debug\netcoreapp2.0\KestrelPlatform.runtimeconfig.json
+c:\users\okane\Source\Repos\KestrelPlatform\KestrelPlatform\bin\Debug\netcoreapp2.0\KestrelPlatform.runtimeconfig.dev.json
+c:\users\okane\Source\Repos\KestrelPlatform\KestrelPlatform\bin\Debug\netcoreapp2.0\KestrelPlatform.dll
+c:\users\okane\Source\Repos\KestrelPlatform\KestrelPlatform\bin\Debug\netcoreapp2.0\KestrelPlatform.pdb
+c:\users\okane\Source\Repos\KestrelPlatform\KestrelPlatform\obj\Debug\netcoreapp2.0\KestrelPlatform.csprojResolveAssemblyReference.cache
+c:\users\okane\Source\Repos\KestrelPlatform\KestrelPlatform\obj\Debug\netcoreapp2.0\KestrelPlatform.csproj.CoreCompileInputs.cache
+c:\users\okane\Source\Repos\KestrelPlatform\KestrelPlatform\obj\Debug\netcoreapp2.0\KestrelPlatform.AssemblyInfoInputs.cache
+c:\users\okane\Source\Repos\KestrelPlatform\KestrelPlatform\obj\Debug\netcoreapp2.0\KestrelPlatform.AssemblyInfo.cs
+c:\users\okane\Source\Repos\KestrelPlatform\KestrelPlatform\obj\Debug\netcoreapp2.0\KestrelPlatform.dll
+c:\users\okane\Source\Repos\KestrelPlatform\KestrelPlatform\obj\Debug\netcoreapp2.0\KestrelPlatform.pdb
